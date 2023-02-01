@@ -1,0 +1,9 @@
+[submodule "AutoClassifier"]
+	path = AutoClassifier
+	url = https://github.com/SDJustus/AutoClassifier.git
+[submodule "skip-ganomaly"]
+	path = skip-ganomaly
+	url = https://github.com/SDJustus/skip-ganomaly.git
+[submodule "PaDiM"]
+	path = PaDiM
+	url = https://github.com/SDJustus/PaDiM.git
